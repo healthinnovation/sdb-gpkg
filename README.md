@@ -1,2 +1,0 @@
-# sdb-gpkg
-sdb-gpkg
